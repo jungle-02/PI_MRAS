@@ -1,7 +1,0 @@
-GND noi chung vs cái header á
-PA0 --> EN (Xuat PWM)
-PA10 --> Xung A encoder
-PA1-->IN1
-IN0 nối GND
-PB7 --->TX USB UART 14400 baudrate
-PB6 --->RX USB UART
